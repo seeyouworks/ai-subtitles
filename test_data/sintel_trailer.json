@@ -1,0 +1,26 @@
+{
+  "id": "sintel-trailer-480p",
+  "title": "Sintel 공식 예고편",
+  "url": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+  "filename": "sintel_trailer_480p.mp4",
+  "size_bytes": 4372373,
+  "sha256": "b670602fa00934ca27c4351bb0efe7ea7a07fae57284e44226025eeed7c51254",
+  "duration_seconds": 52.208333,
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "license_source": "https://durian.blender.org/sharing/",
+  "attribution": "© copyright Blender Foundation | durian.blender.org",
+  "reference_sources": [
+    "https://webplatform.github.io/docs/concepts/VTT_Captioning/",
+    "https://github.com/chrisdavidmills/html5-captions-and-subtitles-content-kit/blob/gh-pages/demo/step4/vtt/sintel-captions-en.vtt",
+    "https://download.blender.org/durian/subs/sintel_ko.srt"
+  ],
+  "reference_note": "영어 문구는 모델 출력과 독립적인 게시 자막에서 확인했다. 예고편 시간 구간은 대략적인 기준이며 1초 여유로 검사한다. 한국어 기준은 공식 서버의 본편 자막 7, 8, 11, 12번 문구를 사용한다. 다른 자연스러운 번역도 허용한다.",
+  "maximum_wer": 0.2,
+  "dialogue": [
+    {"id": 1, "start": 11.4, "end": 14.8, "en": "What brings you to the land of the gatekeepers?", "ko": "문지기들의 땅에는 무슨 일로 찾아왔나?"},
+    {"id": 2, "start": 18.0, "end": 20.5, "en": "I'm searching for someone.", "ko": "찾는 게 있어서요."},
+    {"id": 3, "start": 36.4, "end": 39.5, "en": "A dangerous quest for a lone hunter.", "ko": "홀로 다니는 사냥꾼에게는 위험한 일이군."},
+    {"id": 4, "start": 40.9, "end": 44.9, "en": "I've been alone for as long as I can remember.", "ko": "저는 언제나 외톨이였어요."}
+  ]
+}

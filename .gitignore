@@ -1,0 +1,9 @@
+.venv/
+models/
+cache/
+work/
+settings.json
+test_media/
+test_runs/
+__pycache__/
+*.pyc
